@@ -1,2 +1,2 @@
 # Python-projects
-these arae some of my simple projects 
+these are some of my simple projects 
